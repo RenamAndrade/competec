@@ -83,9 +83,19 @@ public  class Aula {
         System.out.println("O número salvo foi " + numero);*/
 
         //Tipos de Print
+        
         /*String saudacao = "Olá Mundo!";
-        System.out.print(saudacao "\n");*/
-    
+        System.out.print(saudacao + "\n");
+
+        int p = 45;
+        int o = 10;
+        int m = (p * o);
+        System.out.println(m);
+
+        String R = "Rafael";
+        String P = "Pica mole";
+        System.out.printf("%s %s\n", R, P);*/
+         
 
         //Exercício: Criar um Scanner pedindo o nome do usuário e sua idade
         /*Scanner entradaN = new Scanner(System.in);
@@ -97,9 +107,14 @@ public  class Aula {
         int i = entradaN.nextInt();
         System.out.println("Sua idade é " + i);*/
 
+    }
+        /*git status
+        git add.
+        git commit -m "aula2"
+        git push origin main */
+
 
     }
 
-}
-    
+
 
