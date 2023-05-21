@@ -111,7 +111,7 @@ public class Aula1 {
 
     //Desafio - DDD's dos estados brasileiros
 
-    System.out.println("Insira um dos DDD da lista abaixo\n");
+    /*System.out.println("Insira um dos DDD da lista abaixo\n");
     System.out.println("Região Norte:\n" + "Acre (68)\n" + "Amapá (96)\n" + "Amazonas (92 e 97)\n" +  "Pará (91, 93 e 94)\n" + "Rondônia (69)\n" + "Roraima (95)\n" + "Tocantins (63)\n");
     System.out.println("Região Nordeste:\n" + "Alagoas (82)\n" + "Bahia (71, 73, 74, 75 e 77)\n" + "Ceará (85 e 88)\n" + "Maranhão (98 e 99)\n" + "Paraíba (83)\n" + "Pernambuco (81 e 87)\n" + "Piauí (86 e 89)\n" + "Rio Grande do Norte (84)\n" + "Sergipe (79)\n");
     System.out.println("Região Centro-Oeste:\n" + "Distrito Federal (61)\n" + "Goiás (62 e 64)\n" + "Mato Grosso (65 e 66)\n" + "Mato Grosso do Sul (67)\n");
@@ -121,7 +121,7 @@ public class Aula1 {
     System.out.println("Por favor, digite algum DDD:");
     Scanner Tel = new Scanner(System.in);
     int DDD = Tel.nextInt();
-    
+
     if (DDD == 68) {
         System.out.println("-Acre\n" + "-Entrada: " + DDD + "\n-Saída: Dinossauro.");
     }
@@ -205,7 +205,7 @@ public class Aula1 {
     }
     else {
         System.out.println("Erro!");
-    }
+    }*/
 
 }
 }
